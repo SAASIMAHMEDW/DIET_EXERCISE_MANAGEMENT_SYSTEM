@@ -114,6 +114,4 @@ else:
 	else:
 		print("WRONG PROMPT HAS BEEN ENTERED!!!\nPLEASE ENTER CORRECT PROMPT")
 		
-	
-	
-	
+print("AHMED---")
