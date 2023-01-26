@@ -17,3 +17,4 @@ def getTime():
 if __name__ == "__main__":
 	x = getTime()
 	print(x)
+
